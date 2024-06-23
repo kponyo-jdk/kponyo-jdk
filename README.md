@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John Djama Kofi Kponyo
-- 👀 More about me coming soon...!!!
+- 👀 Stay tuned for more updates about me...!!!
 
 <!---
 nullstead/nullstead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
