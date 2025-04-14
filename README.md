@@ -37,7 +37,7 @@ Tools      : Git, VS Code, Postman
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nullstead&repo=pauleo&theme=tokyonight" />
 </a>
 <a href="https://github.com/nullstead/to">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nullstead&repo=jdkframest&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nullstead&repo=jdkframes&theme=tokyonight" />
 </a>
 
 ## 📝 Latest Blog Posts
