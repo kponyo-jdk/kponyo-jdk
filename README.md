@@ -1,11 +1,11 @@
-# Hi there, I'm Kponyo JDK 👋
+# Hi there, I'm John Kponyo 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/nullstead?label=Follow&style=social)](https://github.com/nullstead)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nullstead?label=Follow&style=social)](https://twitter.com/nullstead)
+[![GitHub followers](https://img.shields.io/github/followers/kponyo-jdk?label=Follow&style=social)](https://github.com/kponyo-jdk)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kponyo-jdk?label=Follow&style=social)](https://twitter.com/kponyo-jdk)
 
 ## 💻 About Me
 
-Software enthusiast with a passion for building scalable systems and exploring new technologies. I'm constantly learning and sharing what I discover along the way.
+I’m a software engineer with a background in computer science and a genuine passion for technology. I enjoy exploring new tools and frameworks, solving complex problems, and developing solutions that have a tangible impact. Whether it’s writing clean code or learning the latest in tech, I’m always excited about what’s next in the world of programming..
 
 ## 🔭 Current Focus
 
@@ -17,9 +17,9 @@ Software enthusiast with a passion for building scalable systems and exploring n
 ## 🛠️ Tech Stack
 
 ```
-Languages  : PHP, JavaScript, TypeScript, C++, Java, Python, Rust
-Frontend   : React, Next.js, Bootstrap
-Backend    : Node.js, Express, Laravel, Django
+Languages  : PHP, JavaScript/TypeScript, C++, Java, Python, Rust
+Frontend   : React, Bootstrap
+Backend    : Node.js (Nest & Express), Laravel
 Database   : MySQL, PostgreSQL, MongoDB, Redis
 DevOps     : Docker, AWS, GitHub Actions
 Tools      : Git, VS Code, Postman
@@ -27,17 +27,17 @@ Tools      : Git, VS Code, Postman
 
 ## 📊 GitHub Stats
 
-![nullstead's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullstead&show_icons=true&theme=tokyonight)
+![kponyo-jdk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kponyo-jdk&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nullstead&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kponyo-jdk&layout=compact&theme=tokyonight)
 
 ## 🌟 Featured Projects
 
-<a href="https://github.com/nullstead/pauleo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nullstead&repo=pauleo&theme=tokyonight" />
+<a href="https://github.com/kponyo-jdk/pauleo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kponyo-jdk&repo=pauleo&theme=tokyonight" />
 </a>
-<a href="https://github.com/nullstead/to">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nullstead&repo=jdkframes&theme=tokyonight" />
+<a href="https://github.com/kponyo-jdk/to">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kponyo-jdk&repo=jdkframes&theme=tokyonight" />
 </a>
 
 ## 📝 Latest Blog Posts
@@ -49,11 +49,11 @@ Tools      : Git, VS Code, Postman
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://twitter.com/nullstead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nullstead" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nullstead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nullstead" height="30" width="40" /></a>
-<a href="https://dev.to/nullstead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nullstead" height="30" width="40" /></a>
+<a href="https://twitter.com/kponyo-jdk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kponyo-jdk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kponyo-jdk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kponyo-jdk" height="30" width="40" /></a>
+<a href="https://dev.to/kponyo-jdk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kponyo-jdk" height="30" width="40" /></a>
 </p>
 
 ---
 
-⭐️ From [nullstead](https://github.com/nullstead)
+⭐️ From [kponyo-jdk](https://github.com/kponyo-jdk)
